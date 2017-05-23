@@ -1,3 +1,4 @@
+## JS tutorial copied from the following repo
 ## JavaScript ES6 / ES2015 YouTube Series
 
 This is the source code for each video in the YouTube Series
